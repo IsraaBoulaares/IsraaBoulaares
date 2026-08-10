@@ -1,123 +1,77 @@
-# 👋 Hello, World! I'm Israa Boulaares  
+# 👋 Hi, I'm Israa Boulaares
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6A5ACD&width=500&lines=Salut,+je+suis+Israa+Boulaares;Étudiante+en+Génie+Logiciel;Passionnée+par+l'IA,+le+Développement+Web;Toujours+en+quête+de+nouveaux+savoirs)
+**Full-Stack Developer | Final-Year Computer Science Engineering Student**
 
----
+Final-year Computer Science engineering student who ships production-grade full-stack systems — from fixing critical security vulnerabilities in a live SaaS platform to integrating RAG-powered AI features and OAuth-based third-party APIs. Comfortable owning a feature end-to-end: backend architecture, frontend, and the AI layer connecting them.
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
----
-
-## 🧑‍💻 À propos de moi  
-
-**`Étudiante en Génie Logiciel & Passionnée de Technologie`**  
-
-💡 Curieuse et motivée, je m’intéresse au développement web, mobile, à l’intelligence artificielle et à la cybersécurité.  
-🚀 Mon objectif : construire des solutions innovantes, performantes et utiles.  
-⚡ J’aime résoudre des problèmes complexes, apprendre de nouvelles technos et collaborer sur des projets stimulants.  
-
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+📍 Tunis, Tunisia · Open to relocation (Europe) & remote · 🎓 Graduating September 2026
 
 ---
 
-## 🛠️ Compétences Techniques  
+## 🚀 What I'm working on
 
-### 🔙 Back-end & API
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-</div>
+**Full-Stack Engineer — KothonTech Ops & Persona** (KothonTech GmbH, Munich/Tunis) · Feb 2026 – Jul 2026 (Graduation Project)
+Co-building a two-module SaaS platform — an ERP/ops suite (CRM, invoicing, e-signature contracts) and an AI-driven LinkedIn content studio — using NestJS, React 19, and MongoDB Atlas. Built a RAG-powered AI content assistant (Groq/Qwen, MongoDB Atlas Vector Search), fixed 5 critical production security vulnerabilities, and added 35+ automated tests.
 
 ---
 
-### 🎨 Front-end & UI/UX
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</div>
+## 🛠️ Tech Stack
+
+**Front-end**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Back-end & APIs**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+
+**AI / ML**
+![Groq](https://img.shields.io/badge/-Groq_(Qwen)-F55036?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-4B8BBE?style=flat-square)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 ---
 
-### 🧠 Langages & Frameworks
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="40"/>
-</div>
+## 📌 Featured Projects
+
+- 🎓 **[KothonTech Ops & Persona](https://github.com/IsraaBoulaares)** — Two-module SaaS platform (ERP/ops + AI LinkedIn content studio). NestJS, React 19, MongoDB Atlas, RAG via Groq/Qwen. *(Current graduation project — private repo)*
+- 📚 **[LMS Data Integration](https://github.com/IsraaBoulaares/EDADVANCE)** — MERN e-learning platform backend with 5 OAuth providers, GitHub & Google Classroom API integration (~80 REST endpoints, 10 data models).
+- ⚙️ **[Spring Boot Containerization](https://github.com/IsraaBoulaares/4TWIN2-G5-kaddem1.0.0/tree/IsraaBoulaares-4TWIN2-G5)** — Dockerized a Spring Boot/MySQL service with a 2-service Docker Compose stack (app + MySQL 8.0) as part of a team CI/CD coursework project.
+- 🩺 **[Clinical Data Extraction Pipeline](https://github.com/IsraaBoulaares/ai-medical-reports)** — Python pipeline extracting structured clinical data via regex/fuzzy-matching against ICD-10/ICD-11 code tables, with automated PDF report generation.
 
 ---
 
-### ☁️ Bases de Données & Cloud
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/Database-H2-lightgrey?logo=datagrip&style=flat-square"/>
-  <img src="https://img.shields.io/badge/GraphDB-Neo4j-009688?logo=neo4j&logoColor=white&style=flat-square"/>
-</div>
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=IsraaBoulaares&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaBoulaares&layout=compact&theme=radical)
 
 ---
 
-### 🛡️ DevOps, CI/CD & Outils
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/Jira-Software-blue?logo=jira&style=flat-square"/>
-  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-blue?logo=sonarqube&style=flat-square"/>
-  <img src="https://img.shields.io/badge/Nexus-Repository-lightgrey?logo=sonatype&style=flat-square"/>
-</div>
+## 📫 Get in touch
 
----
-
-## 🚧 Projets  
-
-- 🎮 [Jeu de mémoire en React](https://github.com/IsraaBoulaares/memory-game) – Un jeu de logique interactif.  
-- 📦 [App Gestion de budget](https://github.com/IsraaBoulaares/budget-app) – Application Spring Boot + React.  
-- 🧠 [Analyse d'émotions](https://github.com/IsraaBoulaares/emotion-detector) – Détection des émotions faciales avec Python.  
-
----
-
-## 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=IsraaBoulaares&show_icons=true&theme=radical)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaBoulaares&layout=compact&theme=radical)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=IsraaBoulaares&theme=radical)  
-[![](https://github-readme-activity-graph.vercel.app/graph?username=IsraaBoulaares&theme=dracula)](https://github.com/Ashutosh00710/github-readme-activity-graph)  
-
----
-
-## 📫 Me contacter  
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/israa-boulaares-a7133432b/)  
-- 📧 [Email](mailto:boularesisraa@gmail.com)  
-
----
-
-![Status](https://img.shields.io/badge/Apprend-Angular-red?style=for-the-badge&logo=angular)  
-![Focus](https://img.shields.io/badge/Focus-IA-blueviolet?style=for-the-badge&logo=python)  
-![Tools](https://img.shields.io/badge/Outils-Docker%2C+Git%2C+Linux-informational?style=for-the-badge&logo=docker)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=IsraaBoulaares&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- ✉️ [israa.boulaares@esprit.tn](mailto:israa.boulaares@esprit.tn)
+- 💼 [LinkedIn](https://www.linkedin.com/in/israaboulaares/)
+- 🌐 [Portfolio](https://israaboulaares-portfolio.vercel.app/)
