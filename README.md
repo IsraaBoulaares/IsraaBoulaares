@@ -4,7 +4,7 @@
 
 Final-year Computer Science engineering student who ships production-grade full-stack systems — from fixing critical security vulnerabilities in a live SaaS platform to integrating RAG-powered AI features and OAuth-based third-party APIs. Comfortable owning a feature end-to-end: backend architecture, frontend, and the AI layer connecting them.
 
-📍 Tunis, Tunisia · Open to relocation (Europe) & remote · 🎓 Graduating September 2026
+📍 Tunis, Tunisia · 🎓 Graduating September 2026
 
 ---
 
@@ -65,8 +65,8 @@ Co-building a two-module SaaS platform — an ERP/ops suite (CRM, invoicing, e-s
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=IsraaBoulaares&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraaBoulaares&layout=compact&theme=radical)
+![](https://github-stats-extended.vercel.app/api?username=IsraaBoulaares&show_icons=true&theme=radical)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=IsraaBoulaares&layout=compact&theme=radical)
 
 ---
 
