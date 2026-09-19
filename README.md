@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Israa Boulaares
 
-**Full-Stack Developer | Final-Year Computer Science Engineering Student**
+**Full-Stack Developer | Computer Science Engineer**
 
-Final-year Computer Science engineering student who ships production-grade full-stack systems — from fixing critical security vulnerabilities in a live SaaS platform to integrating RAG-powered AI features and OAuth-based third-party APIs. Comfortable owning a feature end-to-end: backend architecture, frontend, and the AI layer connecting them.
+Computer Science engineer who ships production-grade full-stack systems — from fixing critical security vulnerabilities in a live SaaS platform to integrating RAG-powered AI features and OAuth-based third-party APIs. Comfortable owning a feature end-to-end: backend architecture, frontend, and the AI layer connecting them.
 
-📍 Tunis, Tunisia · 🎓 Graduating September 2026
+📍 Tunis, Tunisia · 🎓 Engineering degree in Computer Science, ESPRIT (2026) · 💼 Open to full-stack roles — remote or Europe
 
 ---
 
-## 🚀 What I'm working on
+## 🚀 Recent work
 
 **Full-Stack Engineer — KothonTech Ops & Persona** (KothonTech GmbH, Munich/Tunis) · Feb 2026 – Jul 2026 (Graduation Project)
-Co-building a two-module SaaS platform — an ERP/ops suite (CRM, invoicing, e-signature contracts) and an AI-driven LinkedIn content studio — using NestJS, React 19, and MongoDB Atlas. Built a RAG-powered AI content assistant (Groq/Qwen, MongoDB Atlas Vector Search), fixed 5 critical production security vulnerabilities, and added 35+ automated tests.
+Co-built a two-module SaaS platform — an ERP/ops suite (CRM, invoicing, e-signature contracts) and an AI-driven LinkedIn content studio — using NestJS, React 19, and MongoDB Atlas. Built a RAG-powered AI content assistant (Groq/Qwen, MongoDB Atlas Vector Search), fixed 5 critical production security vulnerabilities, and added 35+ automated tests.
 
 ---
 
@@ -56,7 +56,7 @@ Co-building a two-module SaaS platform — an ERP/ops suite (CRM, invoicing, e-s
 
 ## 📌 Featured Projects
 
-- 🎓 **[KothonTech Ops & Persona](https://github.com/IsraaBoulaares)** — Two-module SaaS platform (ERP/ops + AI LinkedIn content studio). NestJS, React 19, MongoDB Atlas, RAG via Groq/Qwen. *(Current graduation project — private repo)*
+- 🎓 **[KothonTech Ops & Persona](https://github.com/IsraaBoulaares)** — Two-module SaaS platform (ERP/ops + AI LinkedIn content studio). NestJS, React 19, MongoDB Atlas, RAG via Groq/Qwen. *(Graduation project — private repo)*
 - 📚 **[LMS Data Integration](https://github.com/IsraaBoulaares/EDADVANCE)** — MERN e-learning platform backend with 5 OAuth providers, GitHub & Google Classroom API integration (~80 REST endpoints, 10 data models).
 - ⚙️ **[Spring Boot Containerization](https://github.com/IsraaBoulaares/4TWIN2-G5-kaddem1.0.0/tree/IsraaBoulaares-4TWIN2-G5)** — Dockerized a Spring Boot/MySQL service with a 2-service Docker Compose stack (app + MySQL 8.0) as part of a team CI/CD coursework project.
 - 🩺 **[Clinical Data Extraction Pipeline](https://github.com/IsraaBoulaares/ai-medical-reports)** — Python pipeline extracting structured clinical data via regex/fuzzy-matching against ICD-10/ICD-11 code tables, with automated PDF report generation.
