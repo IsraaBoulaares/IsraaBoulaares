@@ -3,7 +3,7 @@
 **Full-Stack Engineer** · NestJS · React · AI-powered SaaS
 Tunis, Tunisia · Computer Science Engineering graduate, ESPRIT (2026) · Open to full-time roles, remote or Europe
 
-I build full-stack features end to end: backend architecture, frontend, and the AI layer that connects them. During my graduation internship I audited a live SaaS codebase on my own initiative and fixed production security issues that no one had asked me to look for.
+I build full-stack features end to end: backend architecture, frontend, and the AI layer that connects them. During my graduation internship I designed and built a SaaS platform on my own, then audited its code on my own initiative and fixed security issues that no one had asked me to look for.
 
 [LinkedIn](https://www.linkedin.com/in/israaboulaares/) · [Portfolio](https://israaboulaares-portfolio.vercel.app/) · [Email](mailto:israa.boulaares@esprit.tn)
 
@@ -12,15 +12,15 @@ I build full-stack features end to end: backend architecture, frontend, and the 
 ## Selected work
 
 ### KothonTech Ops & Persona
-*KothonTech GmbH (Munich/Tunis) · February – August 2026 · Graduation internship · Private repository*
+*KothonTech GmbH (Munich/Tunis) · February – August 2026 · Graduation internship · Private repository · [Read the case study](https://github.com/IsraaBoulaares/kothontech-case-study)*
 
 A two-module SaaS platform: **Ops** (CRM, invoicing with German VAT compliance, e-signature contracts, expense tracking, task management) and **Persona** (an AI-powered LinkedIn content studio with a Chrome extension).
 
 - **Stack:** NestJS, React 19 / Vite, MongoDB Atlas, FastAPI, scikit-learn, n8n
 - **AI:** RAG-based assistant on Groq (Qwen) with MongoDB Atlas Vector Search, grounded in uploaded brand material
 - **Security:** audited the codebase unprompted and fixed 10+ production security issues, including a privilege-escalation gap and unguarded RBAC endpoints
-- **Quality:** 35+ Jest and Playwright tests, SonarQube quality gate passed, about 82k lines of code across 7 Agile sprints
-- **Operations:** contributed to CI/CD, production monitoring and automated backups
+- **Quality:** 262 automated tests (175 Jest, 73 Vitest, 14 Playwright), SonarQube quality gate passed, about 82k lines of code across 7 Agile sprints
+- **Operations:** set up CI/CD with GitHub Actions, monitoring with Prometheus and Grafana, and weekly production backups
 
 > "A genuine sense of ownership, well beyond what we typically expect from an intern."
 > Julia Inderst, COO and Co-Founder, KothonTech GmbH
